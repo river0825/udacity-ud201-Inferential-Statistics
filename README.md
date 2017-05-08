@@ -1,5 +1,7 @@
 # udacity-ud201-Inferential-Statistics
 
+location of this document : https://github.com/river0825/udacity-ud201-Inferential-Statistics
+
 php practice for [Inferential Statistics](https://classroom.udacity.com/courses/ud201)
 
 ## Lesson one
