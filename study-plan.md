@@ -2,6 +2,10 @@
 <!-- toc orderedList:0 depthFrom:1 depthTo:6 -->
 
 * [Study Resources](#study-resources)
+  * [入門](#入門)
+  * [Machine Learning: Python 機器學習：使­用Pytho­n](#machine-learning-python-機器學習使用pythonhttpswwwgitbookcombookhtygithubmachine-learning-python)
+  * [Deep Learning Prerequisites: The Numpy Stack in Python](#deep-learning-prerequisites-the-numpy-stack-in-pythonhttpswwwudemycomdeep-learning-prerequisites-the-numpy-stack-in-pythonlearnv4overview)
+  * [Deep Learning A-Z™: Hands-On Artificial Neural Networks](#deep-learning-a-ztm-hands-on-artificial-neural-networkshttpswwwudemycomdeeplearninglearnv4overview)
   * [TensorFlow](#tensorflow)
     * [CHAPTER 4A visual proof that neural nets can compute any function](#chapter-4a-visual-proof-that-neural-nets-can-compute-any-functionhttpneuralnetworksanddeeplearningcomchap4html)
       * [名詞](#名詞)
@@ -14,13 +18,19 @@
 
 
 ## Study Resources
-[Machine Learning: Python 機器學習：使­用Pytho­n](https://www.gitbook.com/book/htygithub/machine-learning-python)
+
+### 入門
+[ML Lesson from Google](https://www.youtube.com/playlist?list=PLN9fv183LecmymGioYSgYpC-dAJ6wMKaE)
+
+[How Deep Neural Networks Work](
+https://www.youtube.com/watch?v=ILsA4nyG7I0&index=2&list=PLN9fv183LecmymGioYSgYpC-dAJ6wMKaE&t=79s)
 
 
-[Deep Learning Prerequisites: The Numpy Stack in Python
-](https://www.udemy.com/deep-learning-prerequisites-the-numpy-stack-in-python/learn/v4/overview)
+### [Machine Learning: Python 機器學習：使­用Pytho­n](https://www.gitbook.com/book/htygithub/machine-learning-python)
 
-[Deep Learning A-Z™: Hands-On Artificial Neural Networks](https://www.udemy.com/deeplearning/learn/v4/overview)
+### [Deep Learning Prerequisites: The Numpy Stack in Python](https://www.udemy.com/deep-learning-prerequisites-the-numpy-stack-in-python/learn/v4/overview)
+
+### [Deep Learning A-Z™: Hands-On Artificial Neural Networks](https://www.udemy.com/deeplearning/learn/v4/overview)
 
 ### TensorFlow
 
@@ -31,6 +41,8 @@ http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&re
 
 #### [CHAPTER 4A visual proof that neural nets can compute any function](http://neuralnetworksanddeeplearning.com/chap4.html)
 > 搭配 tensorflow playground 來看會比較清楚
+> 前面的[章節](http://neuralnetworksanddeeplearning.com/chap4.html)有提到如何 用 python implement
+> 這一章屬於入門
 
 ##### 名詞
 Universal approximation theorem -> [通用近似定理](https://en.wikipedia.org/wiki/Universal_approximation_theorem)
@@ -105,10 +117,6 @@ http://neuralnetworksanddeeplearning.com/chap4.html#many_input_variables
 
 [李宏毅 - ML Lecture 1: Regression - Case Study](https://www.youtube.com/watch?v=fegAeph9UaA_)
 
-[ML Lesson from Google](https://www.youtube.com/playlist?list=PLN9fv183LecmymGioYSgYpC-dAJ6wMKaE)
-
-[How Deep Neural Networks Work](
-https://www.youtube.com/watch?v=ILsA4nyG7I0&index=2&list=PLN9fv183LecmymGioYSgYpC-dAJ6wMKaE&t=79s)
 
 ## 技術
 [keras](https://keras.io/)
